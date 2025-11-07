@@ -17,12 +17,13 @@ The goal is to explore patterns in how victim perceive crime and tend to report 
 - Interpretation of the cluster and the group of people in clusters and identifying the perception of the group of Victims in that category  
 
 ## 📁 Repository Structure
-Victim‐Crime-Perception/
+```
+Victim-Crime-Perception/
 │
 ├── VictimCrimePerception.ipynb # Main analysis notebook
-├── Victim-Crime-Perception/ # Supporting directory (data, scripts, etc.)
-├── requirements.txt # Project dependencies
-└── README.md # This file
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+```
 
 ## ⚙️ Installation
 ```bash
